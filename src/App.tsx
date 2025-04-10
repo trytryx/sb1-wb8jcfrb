@@ -25,19 +25,19 @@ function App() {
   const steps = [
     {
       text: t('steps.1'),
-      image: 'https://trustwallet.com/assets/images/media/assets/horizontal_blue.png'
+      image: 'https://i.ibb.co/dsp2cTmC/IMG-20250411-014622.jpg'
     },
     {
       text: t('steps.2'),
-      image: 'https://community.trustwallet.com/uploads/default/original/2X/6/6b24f48d7f07d5f8ab51e3bea7f9ca63c5e69b16.png'
+      image: 'https://i.ibb.co/tT3CzSXd/IMG-20250411-014638.jpg'
     },
     {
       text: t('steps.3'),
-      image: 'https://community.trustwallet.com/uploads/default/original/2X/2/2f06876db6f1470c366428856cf6726e3c5d2667.png'
+      image: 'https://i.ibb.co/rG49WRtL/IMG-20250411-014652.jpg'
     },
     {
       text: t('steps.4'),
-      image: 'https://community.trustwallet.com/uploads/default/original/2X/e/eb1e47d6699577b4b54cc2f266e7f3ab54a2c52c.png'
+      image: 'https://i.ibb.co/zhF1J8Rv/IMG-20250411-014705.jpg'
     }
   ];
 
