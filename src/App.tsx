@@ -100,7 +100,7 @@ function App() {
                       <img 
                         src={step.image} 
                         alt={`Step ${index + 1}`}
-                        className="w-full h-48 object-cover rounded-lg mb-3"
+                        className="w-full h-full object-cover rounded-lg mb-3"
                       />
                       <p className="text-gray-700">
                         <span className="font-semibold">{index + 1}.</span> {step.text}
