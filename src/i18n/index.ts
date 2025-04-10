@@ -13,8 +13,8 @@ const resources = {
       copied: 'Address copied!',
       stepByStep: 'Step by Step Guide:',
       steps: {
-        1: 'Open your Trust Wallet app',
-        2: 'Click on the settings icon in the top right corner',
+        1: 'Open your Trust Wallet app and Create Wallet',
+        2: 'Click on the Manage Crypto Button',
         3: 'Click on "Tokens"',
         4: 'Click on the "+" icon in the top right corner',
         5: 'Select {{network}} as the network',
