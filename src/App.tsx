@@ -94,7 +94,7 @@ function App() {
 
               <div className="mt-6 space-y-4">
                 <h3 className="text-lg font-medium text-gray-900">{t('stepByStep')}</h3>
-                <div className="grid grid-cols-2 md:grid-cols-2 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                   {steps.map((step, index) => (
                     <div key={index} className="bg-gray-50 rounded-lg p-4">
                       <img 
